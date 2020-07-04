@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Aula30\obj\Debug\netcoreapp3.0\Aula29.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Aula30\obj\Debug\netcoreapp3.0\Aula29.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Aula30\obj\Debug\netcoreapp3.0\Aula29.AssemblyInfo.cs
+C:\Users\senai\Desktop\Aula30\bin\Debug\netcoreapp3.0\Aula29.exe
+C:\Users\senai\Desktop\Aula30\bin\Debug\netcoreapp3.0\Aula29.deps.json
+C:\Users\senai\Desktop\Aula30\bin\Debug\netcoreapp3.0\Aula29.runtimeconfig.json
+C:\Users\senai\Desktop\Aula30\bin\Debug\netcoreapp3.0\Aula29.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Aula30\bin\Debug\netcoreapp3.0\Aula29.dll
+C:\Users\senai\Desktop\Aula30\bin\Debug\netcoreapp3.0\Aula29.pdb
+C:\Users\senai\Desktop\Aula30\obj\Debug\netcoreapp3.0\Aula29.dll
+C:\Users\senai\Desktop\Aula30\obj\Debug\netcoreapp3.0\Aula29.pdb
